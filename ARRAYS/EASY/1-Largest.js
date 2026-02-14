@@ -1,3 +1,8 @@
+// Find the Largest Element in an Array
+//       [3, 1, 4, 1, 5, 9]   → 9
+// Given an array of numbers, write a function to return the largest number.
+
+
 function FirstLargest(arr) {
     let large = -Infinity;
     for(let i=0; i<arr.length; i++) {

@@ -1,3 +1,8 @@
+// Remove Duplicates from an Array
+//        [1, 2, 2, 3, 4, 4, 5] → [1, 2, 3, 4, 5]
+// Write a function to remove duplicate values from an array.
+
+
 function RemoveDuplicates() {
     let result =[];
     for(let i=0; i<arr.length; i++) {

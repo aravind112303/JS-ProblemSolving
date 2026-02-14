@@ -1,3 +1,8 @@
+// Sum of Even Numbers
+//        [1, 2, 3, 4, 5] →  6
+// Write a function that returns the sum of all even numbers in an array.
+
+
 function SumOfEvenNums(arr) {
     let sum =0;
     for(let i=0; i<arr.length; i++) {

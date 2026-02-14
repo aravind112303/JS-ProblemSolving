@@ -1,3 +1,10 @@
+// Reverse an Array
+//        [1, 2, 3, 4, 5] → [5, 4, 3, 2, 1]
+// Write a function to reverse the elements in an array.
+
+
+
+
 function ReverseArray(arr) {
     let start = 0;
     let end = arr.length-1;

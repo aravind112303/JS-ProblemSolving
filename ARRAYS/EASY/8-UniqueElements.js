@@ -1,3 +1,8 @@
+// Find Unique Elements
+//        [1, 2, 2, 3, 4, 4, 5] → [1, 3, 5]
+// Write a function to find the unique elements in an array (elements that appear only once).
+
+
 function UniqueElements() {
     let result =[];
     for(let i=0; i<arr.length; i++) {
